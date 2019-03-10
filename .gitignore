@@ -1,0 +1,13 @@
+*.iml
+*.log
+*.class
+*.classpath
+*.project
+*.settings
+build/
+classes/
+target/
+out/
+output/
+.gradle/
+.idea/
