@@ -66,4 +66,4 @@ The time complexity involved in access operations on `LiveOrderBoard` is O(log n
 
 ### Limitations
 
-This implementation supports multiple currencies for setting `Price` and `OrderSummary` for different currencies are treated seperately. But there is no considerations made while comparing `Price`s based on currency exchange rates.
+This implementation supports multiple currencies for setting `Price` and `OrderSummary` for different currencies are treated seperately. But there is no consideration for comparing `Price`s based on currency exchange rates and is beyond the scope of this project.
