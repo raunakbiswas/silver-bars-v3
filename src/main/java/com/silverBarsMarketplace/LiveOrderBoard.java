@@ -1,4 +1,4 @@
-package org.creditsuisse;
+package com.silverBarsMarketplace;
 
 import tec.units.ri.quantity.Quantities;
 

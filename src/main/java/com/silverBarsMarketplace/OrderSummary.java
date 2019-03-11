@@ -1,4 +1,4 @@
-package org.creditsuisse;
+package com.silverBarsMarketplace;
 
 import javax.measure.Quantity;
 import javax.measure.quantity.Mass;

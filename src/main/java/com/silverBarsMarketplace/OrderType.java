@@ -1,4 +1,4 @@
-package org.creditsuisse;
+package com.silverBarsMarketplace;
 
 public enum OrderType {
     BUY,

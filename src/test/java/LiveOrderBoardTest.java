@@ -1,4 +1,4 @@
-import org.creditsuisse.*;
+import com.silverBarsMarketplace.*;
 import org.junit.Test;
 import tec.units.ri.quantity.Quantities;
 
